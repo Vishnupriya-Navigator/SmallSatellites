@@ -1,5 +1,7 @@
 ## AI-Driven Mission-Critical Software Optimization for Small Satellites
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17088889.svg)](https://doi.org/10.5281/zenodo.17088889)
+
 This repository implements the simulation and optimization framework from the SmallSat 2025 conference paper:
 
 "AI-Driven Mission-Critical Software Optimization for Small Satellites: Integrating an Automated Testing Framework"
