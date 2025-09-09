@@ -31,7 +31,23 @@ Bayesian Optimization for latency and fault reduction
 
 Empirical simulation aligned with constraints described in the SmallSat publication
 
-<pre lang="md"> ``` Repository Structure SmallSatellites/ ├── data/ │ └── simulated/ # Generated telemetry files (.csv) ├── framework/ # Core Python scripts │ ├── simulator.py # Synthetic telemetry generator │ ├── fault_injection.py # Injects faults into telemetry │ ├── model_training.py # Trains machine learning models │ ├── model_comparison.py # Compares classifier performance │ └── bayesian_optimizer.py # Bayesian optimization logic ├── notebooks/ │ └── demo_testbed.ipynb # End-to-end testbed (30-cycle simulation) ├── requirements.txt └── README.md ``` </pre>
+```
+Repository Structure
+SmallSatellites/
+├── data/
+│   └── simulated/                 # Generated telemetry files (.csv)
+├── framework/                    # Core Python scripts
+│   ├── simulator.py              # Synthetic telemetry generator
+│   ├── fault_injection.py        # Injects faults into telemetry
+│   ├── model_training.py         # Trains machine learning models
+│   ├── model_comparison.py       # Compares classifier performance
+│   └── bayesian_optimizer.py     # Bayesian optimization logic
+├── notebooks/
+│   └── demo_testbed.ipynb        # End-to-end testbed (30-cycle simulation)
+├── requirements.txt
+└── README.md
+```
+
 
 Average Latency: approximately 0.86 seconds
 
