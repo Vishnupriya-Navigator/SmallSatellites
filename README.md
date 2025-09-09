@@ -119,7 +119,7 @@ If you use this codebase for research or publication purposes, please cite:
   booktitle={Small Satellite Conference (SSC)},
   year={2025}
 }
-
+```
 
 ## Acknowledgments
 
