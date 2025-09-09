@@ -106,7 +106,7 @@ Author
 
 Vishnupriya S. Devarajulu
 Software Engineer | AI Researcher
-LinkedIn: https://www.linkedin.com/in/vishnupriyadevarajulu
+LinkedIn: https://www.linkedin.com/in/priya-d-76a403139/
 
 Citation
 
@@ -118,11 +118,10 @@ If you use this codebase for research or implementation purposes, please cite th
   booktitle={Small Satellite Conference (SSC)},
   year={2025}
 }
+## Acknowledgments
 
-Acknowledgments
+## Utah State University / NASA Small Satellite Conference
 
-Utah State University / NASA Small Satellite Conference
+## NASA-STD-8739.8, IEEE 1012, IEEE 730
 
-NASA-STD-8739.8, IEEE 1012, IEEE 730
-
-Libraries used: scikit-learn, scikit-optimize, matplotlib
+## Libraries used: scikit-learn, scikit-optimize, matplotlib
