@@ -108,9 +108,9 @@ Vishnupriya S. Devarajulu
 Software Engineer | AI Researcher
 LinkedIn: https://www.linkedin.com/in/priya-d-76a403139/
 
-Citation
+## Citation
 
-If you use this codebase for research or implementation purposes, please cite the original paper:
+If you use this codebase for research or publication purposes, please cite:
 
 ```bibtex
 @inproceedings{devarajulu2025smallsat,
@@ -119,6 +119,7 @@ If you use this codebase for research or implementation purposes, please cite th
   booktitle={Small Satellite Conference (SSC)},
   year={2025}
 }
+
 
 ## Acknowledgments
 
