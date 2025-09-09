@@ -122,6 +122,6 @@ If you use this codebase for research or implementation purposes, please cite th
 
 ## Utah State University / NASA Small Satellite Conference
 
-## NASA-STD-8739.8, IEEE 1012, IEEE 730
+## NASA-STD-8739.8, IEEE 1012, IEEE 730 Standards adherence
 
 ## Libraries used: scikit-learn, scikit-optimize, matplotlib
