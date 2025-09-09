@@ -112,12 +112,14 @@ Citation
 
 If you use this codebase for research or implementation purposes, please cite the original paper:
 
+```bibtex
 @inproceedings{devarajulu2025smallsat,
   title={AI-Driven Mission-Critical Software Optimization for Small Satellites},
   author={Devarajulu, Vishnupriya S.},
   booktitle={Small Satellite Conference (SSC)},
   year={2025}
 }
+
 ## Acknowledgments
 
 ## Utah State University / NASA Small Satellite Conference
